@@ -1,8 +1,7 @@
 # Online Grocery SQL Analysis
 
 ## Overview
-This project performs exploratory data analysis on an online grocery transaction dataset using SQL.
-The dataset includes customer information, order headers, order details, and product lookup data.
+This project demonstrates SQL-based exploratory data analysis on transactional retail data and translates raw data into actionable business insights.
 
 ## Objectives
 - Analyze customer purchasing behavior  
